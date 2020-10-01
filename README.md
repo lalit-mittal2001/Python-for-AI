@@ -1,9 +1,10 @@
-# Python-for-AI
+# Lalit Mittal
+#Python-for-AI
 The module Python-for-AI will cover the following:
 Basic understanding of different types of data
 An overview of python data structures, loops, numpy, pandas and visualization
 
-Table of Contents
+Table of Contents:
 * Python Datatype- List
 * Python Datatype- Tuple
 * Python Datatype- Series
